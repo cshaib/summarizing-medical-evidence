@@ -1,6 +1,6 @@
 # summarizing-medical-evidence
 
-Data and annotations from our paper [**Summarizing, Simplifying, and Synthesizing Medical Evidence Using GPT-3 (with Varying Success)**]([https://arxiv.org/](https://arxiv.org/abs/2305.06299)). 
+Data and annotations from our paper [**Summarizing, Simplifying, and Synthesizing Medical Evidence Using GPT-3 (with Varying Success)**](https://arxiv.org/abs/2305.06299). 
 
 ## Table Schema 
 You will find three `.csv` files that each contain all annotations collected across 100 documents, split into the single document and multi document case. Each `.csv` file corresponds to annotations from 1 annotator. Note that for rows with "Survey Question", you can find a detailed description of the field in the Appendix section of the paper. 
